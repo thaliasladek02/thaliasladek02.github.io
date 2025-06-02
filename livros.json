@@ -1,0 +1,211 @@
+[
+  {
+    "codigo": "001",
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "editora": "Martins Fontes",
+    "ano": 1954,
+    "capa": "https://via.placeholder.com/300x200?text=O+Senhor+dos+Aneis"
+  },
+  {
+    "codigo": "002",
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "editora": "Garnier",
+    "ano": 1899,
+    "capa": "https://via.placeholder.com/300x200?text=Dom+Casmurro"
+  },
+  {
+    "codigo": "003",
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "editora": "Companhia das Letras",
+    "ano": 1949,
+    "capa": "https://via.placeholder.com/300x200?text=1984"
+  },
+  {
+    "codigo": "004",
+    "titulo": "Cem Anos de Solidão",
+    "autor": "Gabriel García Márquez",
+    "editora": "Record",
+    "ano": 1967,
+    "capa": "https://via.placeholder.com/300x200?text=Cem+Anos+de+Solidao"
+  },
+  {
+    "codigo": "005",
+    "titulo": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "editora": "Companhia das Letras",
+    "ano": 1945,
+    "capa": "https://via.placeholder.com/300x200?text=A+Revolucao+dos+Bichos"
+  },
+  {
+    "codigo": "006",
+    "titulo": "Orgulho e Preconceito",
+    "autor": "Jane Austen",
+    "editora": "Penguin",
+    "ano": 1813,
+    "capa": "https://via.placeholder.com/300x200?text=Orgulho+e+Preconceito"
+  },
+  {
+    "codigo": "007",
+    "titulo": "O Pequeno Príncipe",
+    "autor": "Antoine de Saint-Exupéry",
+    "editora": "Agir",
+    "ano": 1943,
+    "capa": "https://via.placeholder.com/300x200?text=O+Pequeno+Principe"
+  },
+  {
+    "codigo": "008",
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "editora": "Martins Fontes",
+    "ano": 1937,
+    "capa": "https://via.placeholder.com/300x200?text=O+Hobbit"
+  },
+  {
+    "codigo": "009",
+    "titulo": "A Metamorfose",
+    "autor": "Franz Kafka",
+    "editora": "L&PM",
+    "ano": 1915,
+    "capa": "https://via.placeholder.com/300x200?text=A+Metamorfose"
+  },
+  {
+    "codigo": "010",
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "João Guimarães Rosa",
+    "editora": "Nova Fronteira",
+    "ano": 1956,
+    "capa": "https://via.placeholder.com/300x200?text=Grande+Sertao"
+  },
+  {
+    "codigo": "011",
+    "titulo": "Os Miseráveis",
+    "autor": "Victor Hugo",
+    "editora": "Martin Claret",
+    "ano": 1862,
+    "capa": "https://via.placeholder.com/300x200?text=Os+Miseraveis"
+  },
+  {
+    "codigo": "012",
+    "titulo": "O Morro dos Ventos Uivantes",
+    "autor": "Emily Brontë",
+    "editora": "Penguin",
+    "ano": 1847,
+    "capa": "https://via.placeholder.com/300x200?text=O+Morro+dos+Ventos"
+  },
+  {
+    "codigo": "013",
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "editora": "Garnier",
+    "ano": 1881,
+    "capa": "https://via.placeholder.com/300x200?text=Bras+Cubas"
+  },
+  {
+    "codigo": "014",
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "editora": "Rocco",
+    "ano": 1997,
+    "capa": "https://via.placeholder.com/300x200?text=Harry+Potter+1"
+  },
+  {
+    "codigo": "015",
+    "titulo": "A Menina que Roubava Livros",
+    "autor": "Markus Zusak",
+    "editora": "Intrínseca",
+    "ano": 2005,
+    "capa": "https://via.placeholder.com/300x200?text=A+Menina+que+Roubava"
+  },
+  {
+    "codigo": "016",
+    "titulo": "O Código Da Vinci",
+    "autor": "Dan Brown",
+    "editora": "Sextante",
+    "ano": 2003,
+    "capa": "https://via.placeholder.com/300x200?text=Codigo+Da+Vinci"
+  },
+  {
+    "codigo": "017",
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "editora": "DarkSide",
+    "ano": 1897,
+    "capa": "https://via.placeholder.com/300x200?text=Dracula"
+  },
+  {
+    "codigo": "018",
+    "titulo": "O Nome do Vento",
+    "autor": "Patrick Rothfuss",
+    "editora": "Arqueiro",
+    "ano": 2007,
+    "capa": "https://via.placeholder.com/300x200?text=O+Nome+do+Vento"
+  },
+  {
+    "codigo": "019",
+    "titulo": "O Silmarillion",
+    "autor": "J.R.R. Tolkien",
+    "editora": "Martins Fontes",
+    "ano": 1977,
+    "capa": "https://via.placeholder.com/300x200?text=Silmarillion"
+  },
+  {
+    "codigo": "020",
+    "titulo": "It: A Coisa",
+    "autor": "Stephen King",
+    "editora": "Suma",
+    "ano": 1986,
+    "capa": "https://via.placeholder.com/300x200?text=It+A+Coisa"
+  },
+  {
+    "codigo": "021",
+    "titulo": "A Guerra dos Tronos",
+    "autor": "George R. R. Martin",
+    "editora": "LeYa",
+    "ano": 1996,
+    "capa": "https://via.placeholder.com/300x200?text=Guerra+dos+Tronos"
+  },
+  {
+    "codigo": "022",
+    "titulo": "Percy Jackson e o Ladrão de Raios",
+    "autor": "Rick Riordan",
+    "editora": "Intrínseca",
+    "ano": 2005,
+    "capa": "https://via.placeholder.com/300x200?text=Percy+Jackson+1"
+  },
+  {
+    "codigo": "023",
+    "titulo": "Moby Dick",
+    "autor": "Herman Melville",
+    "editora": "Penguin",
+    "ano": 1851,
+    "capa": "https://via.placeholder.com/300x200?text=Moby+Dick"
+  },
+  {
+    "codigo": "024",
+    "titulo": "A Ilha do Tesouro",
+    "autor": "Robert Louis Stevenson",
+    "editora": "Zahar",
+    "ano": 1883,
+    "capa": "https://via.placeholder.com/300x200?text=Ilha+do+Tesouro"
+  },
+  {
+    "codigo": "025",
+    "titulo": "A Divina Comédia",
+    "autor": "Dante Alighieri",
+    "editora": "Ediouro",
+    "ano": 1320,
+    "capa": "https://via.placeholder.com/300x200?text=Divina+Comedia"
+  },
+  {
+    "codigo": "026",
+    "titulo": "Ensaio sobre a Cegueira",
+    "autor": "José Saramago",
+    "editora": "Companhia das Letras",
+    "ano": 1995,
+    "capa": "https://via.placeholder.com/300x200?text=Ensaio+sobre+Cegueira"
+    }
+]
+  
